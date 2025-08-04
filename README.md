@@ -10,7 +10,7 @@ This project demonstrates a **secure, scalable, and fully automated** DevSecOps 
 - **Security Integration** – Static and dynamic security analysis with **SonarQube, OWASP Dependency Check, and Trivy**.  
 - **Monitoring & Observability** – Real-time insights using **Prometheus and Grafana**.  
 
-This project is a **blueprint for building secure, automated, and scalable cloud-native applications** using the best DevSecOps practices. 🚀
+This project is a **Blueprint for Building Secure, Automated, and Scalable Cloud-Native Applications** using the best DevSecOps practices. 🚀
 
 ## 🛠️ **Tools & Technologies Used**  
 - **Infrastructure as Code**: 🏗️ Terraform  
@@ -19,3 +19,4 @@ This project is a **blueprint for building secure, automated, and scalable cloud
 - **Security**: 🔒 SonarQube, 🛡️ OWASP Dependency-Check, 🕵️ Trivy  
 - **Monitoring**: 📊 Prometheus, 📈 Grafana  
 - **Cloud Platform**: ☁️ AWS EKS
+  
