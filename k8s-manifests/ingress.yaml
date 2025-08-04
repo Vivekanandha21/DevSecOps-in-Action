@@ -55,5 +55,3 @@ tls:
     - hosts:
         - www.vktechie.info
       secretName: dummy
-                         
-
